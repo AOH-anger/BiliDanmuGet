@@ -274,7 +274,7 @@ def main():
     request_danmu(url_list=url_set)
 
     # 弹幕文件处理
-    clean_danmu(DANMU_SOC_INFO)
+    # clean_danmu(DANMU_SOC_INFO)
 
 
 if __name__ == '__main__':
